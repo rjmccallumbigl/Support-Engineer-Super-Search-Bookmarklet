@@ -23,6 +23,9 @@ Highlight text and click the bookmarklet to search the text on several sites. Ea
 *	https://stackoverflow.com/
 *	https://social.msdn.microsoft.com/
 *	https://www.reddit.com/
+*	techcommunity.microsoft.com
+*	https://docs.microsoft.com/en-us/answers/
+*	https://answers.microsoft.com/
 
 ## Modifying
 * To add another site to the list, you'll need to add it to the end of the script after the last search engine, but before the closing brackets `}})();`
