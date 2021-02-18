@@ -7,7 +7,7 @@ Highlight text and click the bookmarklet to search the text on several sites. Ea
 3. Replace the Name with something memorable (I named mine "MS-SE-Super-Search").
 4. Replace the URL with the script: https://github.com/rjmccallumbigl/Support-Engineer-Super-Search-Bookmarklet/blob/main/MS-SE-Super-Search.js
 5. Highlight a term you want to search on the current page. Click the bookmarklet in the bookmarks bar. It should search for your term on several sites in new tabs.
-    *	__Warning__: as is, it opens up like 12 tabs, if you wanna reduce this, modify the javascript in VSCode or some other text editor and remove the sites e.g. `window.open(...);`
+    *	__Warning__: as is, it opens up over a dozen tabs, if you wanna reduce this, modify the javascript in VSCode or some other text editor and remove the sites e.g. `window.open(...);`
 6. If you just click on the bookmarklet without highlighting text, you can search the same several sites for a particular query you need to type
 
 ## Current list of searched sites:	
