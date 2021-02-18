@@ -13,17 +13,17 @@ Highlight text and click the bookmarklet to search the text on several sites. Ea
 ## Current list of searched sites:	
 * https://supportability.visualstudio.com/
 *	https://docs.microsoft.com/
-*	https://internal.support.services.microsoft.com/en-us
-*	https://www.google.com
+*	https://internal.support.services.microsoft.com/en-us/
+*	https://www.google.com/
 *	https://www.bing.com/work/ (tabs to the left search docs available to you, SharePoints, Teams convos, support KBs, etc)
 *	https://portal.microsofticm.com/
 *	https://github.com/ (issues)
 *	https://github.com/ (discussions)
-*	https://serverfault.com
+*	https://serverfault.com/
 *	https://stackoverflow.com/
 *	https://social.msdn.microsoft.com/
 *	https://www.reddit.com/
-*	techcommunity.microsoft.com
+*	https://techcommunity.microsoft.com/
 *	https://docs.microsoft.com/en-us/answers/
 *	https://answers.microsoft.com/
 
