@@ -10,6 +10,10 @@ Highlight text and click the bookmarklet to search the text on several sites. Ea
     *	__Warning__: as is, it opens up over a dozen tabs, if you wanna reduce this, modify the javascript in VSCode or some other text editor and remove the sites e.g. `window.open(...);`
 6. If you just click on the bookmarklet without highlighting text, you can search the same several sites for a particular query you need to type
 
+![supersearch_install](https://user-images.githubusercontent.com/15747450/141209335-a82e1ff4-13e8-45f7-8938-920101b8efbe.gif)
+![supersearch_usage](https://user-images.githubusercontent.com/15747450/141209390-b335a2e6-4155-44b3-8f60-a00b049805b3.gif)
+![1865442152-supersearch_usage](https://user-images.githubusercontent.com/15747450/141209465-3700c019-0989-41f7-9505-03766815a4b8.gif)
+
 ## Current list of searched sites:	
 * https://supportability.visualstudio.com/
 *	https://docs.microsoft.com/
